@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 391d2c54d8036244bb0ceaa5fc0cdcd6, type: 3}
+  m_Name: Mace
+  m_EditorClassIdentifier: 
+  name: Mace (20)
+  prefab: {fileID: 4488180260318582606, guid: d66ae27a8489176479417badb808ca19, type: 3}
+  type: 0
+  value: 20
